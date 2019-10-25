@@ -11,10 +11,13 @@
   },
   "dependencies": {
     "next": "^9.1.1",
+    "polished": "^3.4.1",
     "react": "^16.10.2",
-    "react-dom": "^16.10.2"
+    "react-dom": "^16.10.2",
+    "styled-components": "^4.4.0"
   },
   "devDependencies": {
+    "babel-plugin-styled-components": "^1.10.6",
     "frontmatter-markdown-loader": "^2.3.0"
   }
 }

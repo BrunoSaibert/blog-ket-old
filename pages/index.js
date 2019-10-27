@@ -1,19 +1,29 @@
 import React, { Component } from "react";
 import Link from "next/link";
+import Head from "next/head";
+
+import content from "../content/home.md";
 
 import Intro from "../components/Intro";
 import Container from "../components/Container";
-
 import { PostList, PostItem } from "../components/Post/styles";
 
 export default class pages extends Component {
   render() {
+    let {
+      attributes: { title, subTitle, urlBackground }
+    } = content;
+
     return (
       <>
+        <Head>
+          <title key="title">{title} - Kethlyn Saibert</title>
+        </Head>
+
         <Intro
-          urlBackground="https://picsum.photos/id/403/2000/1000"
-          title="Blog da Ket"
-          subTitle="Aqui estão meus pensamentos"
+          title={title}
+          subTitle={subTitle}
+          urlBackground={urlBackground}
         />
         <Container>
           <PostList>

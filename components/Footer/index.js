@@ -1,7 +1,9 @@
 import React, { Component } from "react";
 import Link from "next/link";
 
-import { Header } from "./styles";
+import { FaInstagram, FaLinkedinIn } from "react-icons/fa";
+
+import { FooterContainer } from "./styles";
 
 export default class Footer extends Component {
   constructor(props) {
@@ -10,28 +12,32 @@ export default class Footer extends Component {
 
   render() {
     return (
-      <Header>
+      <FooterContainer>
         <nav>
           <ul>
             <li>
-              <Link href="/">
-                <a target="blank">f</a>
-              </Link>
+              <a href="https://www.instagram.com/kettavs/" target="blank">
+                <FaInstagram
+                  size={25}
+                  color={props => props.theme.colors.dark}
+                />
+              </a>
             </li>
             <li>
-              <Link href="/Sobre">
-                <a target="blank">f</a>
-              </Link>
-            </li>
-            <li>
-              <Link href="/Contato">
-                <a target="blank">f</a>
-              </Link>
+              <a
+                href="https://www.linkedin.com/in/kethlyn-tavares-saibert/"
+                target="blank"
+              >
+                <FaLinkedinIn
+                  size={25}
+                  color={props => props.theme.colors.dark}
+                />
+              </a>
             </li>
           </ul>
           <p>Copyright © 2019</p>
         </nav>
-      </Header>
+      </FooterContainer>
     );
   }
 }

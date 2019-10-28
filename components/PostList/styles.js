@@ -1,7 +1,11 @@
 import styled from "styled-components";
 import { lighten } from "polished";
 
-export const PostList = styled.ul``;
+export const PostList = styled.ul`
+  width: auto;
+  padding: 0;
+  margin: 0 20px;
+`;
 
 export const PostItem = styled.li`
   list-style: none;

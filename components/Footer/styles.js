@@ -1,32 +1,17 @@
 import styled from "styled-components";
 import { lighten } from "polished";
 
-export const Header = styled.header`
+export const FooterContainer = styled.footer`
   border-top: 1px solid ${props => lighten(0.7, props.theme.colors.dark)};
 
   height: 150px;
   display: flex;
   align-items: center;
   justify-content: center;
-  margin: auto auto 0;
 
   p {
     text-align: center;
     font-size: 10px;
-  }
-
-  a {
-    color: ${props => props.theme.colors.dark};
-    text-decoration: none;
-    font-weight: bold;
-
-    &.brand {
-      letter-spacing: 1px;
-
-      &:hover {
-        color: ${props => props.theme.colors.primary};
-      }
-    }
   }
 
   ul {
@@ -36,13 +21,17 @@ export const Header = styled.header`
     padding: 0;
     li {
       a {
-        padding: 10px 20px;
-        margin: 0 2px;
-        border-radius: 5px;
+        color: ${props => props.theme.colors.dark};
+        display: flex;
+        align-items: center;
+        padding: 15px;
+        margin: 0 5px;
+        border-radius: 50%;
         transition: all 0.3s;
+        background: ${props => lighten(0.75, props.theme.colors.dark)};
 
         &:hover {
-          background: rgba(0, 0, 0, 0.2);
+          background: ${props => lighten(0.65, props.theme.colors.dark)};
         }
       }
     }

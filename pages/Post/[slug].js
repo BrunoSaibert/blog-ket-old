@@ -14,7 +14,6 @@ class PostPage extends Component {
 
   render() {
     const post = findDoc(this.props.slug);
-    console.log(post);
     return (
       <>
         <Intro

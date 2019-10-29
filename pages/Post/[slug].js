@@ -23,18 +23,23 @@ class PostPage extends Component {
     const post = findDoc(this.props.slug);
     return (
       <>
-        <Head>
-          <title key="title">{post.attributes.title} - Kethlyn Saibert</title>
-        </Head>
-
-        <Intro
-          urlBackground="https://picsum.photos/id/409/2000/1000"
-          title={post.attributes.title}
-          subTitle={post.attributes.description}
-        />
-        <Container>
-          <article dangerouslySetInnerHTML={{ __html: post.html }}></article>
-        </Container>
+        {post && (
+          <>
+            <Head>
+              <title key="title">{title} - Kethlyn Saibert</title>
+            </Head>
+            <Intro
+              urlBackground="https://picsum.photos/id/409/2000/1000"
+              title={post.attributes.title}
+              subTitle={post.attributes.description}
+            />
+            <Container>
+              <article
+                dangerouslySetInnerHTML={{ __html: post.html }}
+              ></article>
+            </Container>
+          </>
+        )}
       </>
     );
   }

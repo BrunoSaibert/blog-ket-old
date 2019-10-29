@@ -1,5 +1,7 @@
 import React, { Component } from "react";
 
+import Head from "next/head";
+
 import { findDoc } from "../../src/getPostList";
 import Intro from "../../components/Intro";
 import Container from "../../components/Container";

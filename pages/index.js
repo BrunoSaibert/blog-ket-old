@@ -33,7 +33,7 @@ export default class Index extends Component {
           <PostList>
             {postList.map((post, index) => (
               <PostItem key={index}>
-                <Link href="/post/[slug]" as={`/post/${post.attributes.slug}`}>
+                <Link href="/Post/[slug]" as={`/Post/${post.attributes.slug}`}>
                   <a>
                     <h2>{post.attributes.title}</h2>
                     <h3>{post.attributes.description}</h3>

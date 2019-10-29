@@ -1,28 +1,27 @@
 import React, { Component } from "react";
 
-// import { findDoc } from "../../src/getPostList";
-// import Intro from "../../components/Intro";
-// import Container from "../../components/Container";
+import { findDoc } from "../../src/getPostList";
+import Intro from "../../components/Intro";
+import Container from "../../components/Container";
 
 class PostPage extends Component {
-  // constructor(props) {
-  //   super(props);
+  constructor(props) {
+    super(props);
 
-  //   this.state = {};
-  // }
+    this.state = {};
+  }
 
-  // static async getInitialProps(props) {
-  //   return {
-  //     slug: props.query.slug
-  //   };
-  // }
+  static async getInitialProps(props) {
+    return {
+      slug: props.query.slug
+    };
+  }
 
   render() {
-    // const post = findDoc(this.props.slug);
+    const post = findDoc(this.props.slug);
     return (
       <>
-        <h1>teste</h1>
-        {/* {post && (
+        {post && (
           <>
             <Intro
               urlBackground="https://picsum.photos/id/409/2000/1000"
@@ -35,7 +34,7 @@ class PostPage extends Component {
               ></article>
             </Container>
           </>
-        )} */}
+        )}
       </>
     );
   }

@@ -26,7 +26,9 @@ class PostPage extends Component {
         {post && (
           <>
             <Head>
-              <title key="title">{title} - Kethlyn Saibert</title>
+              <title key="title">
+                {post.attributes.title} - Kethlyn Saibert
+              </title>
             </Head>
             <Intro
               urlBackground="https://picsum.photos/id/409/2000/1000"

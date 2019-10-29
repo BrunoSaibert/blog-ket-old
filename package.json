@@ -18,6 +18,8 @@
     "styled-components": "^4.4.0"
   },
   "devDependencies": {
+    "@mdx-js/loader": "^1.5.1",
+    "@zeit/next-mdx": "^1.2.0",
     "babel-plugin-styled-components": "^1.10.6",
     "frontmatter-markdown-loader": "^2.3.0"
   }

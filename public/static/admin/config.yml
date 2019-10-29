@@ -50,4 +50,10 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Description", name: "description", widget: "string" }
+      - {
+          label: "Link",
+          name: "slug",
+          widget: "string",
+          default: "{{year}}-{{month}}-{{day}}-{{slug}}",
+        }
       - { label: "Body", name: "body", widget: "markdown" }

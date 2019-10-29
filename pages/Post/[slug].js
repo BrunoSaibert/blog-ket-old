@@ -6,6 +6,12 @@ import Intro from "../../components/Intro";
 import Container from "../../components/Container";
 
 class PostPage extends Component {
+  constructor(props) {
+    super(props);
+
+    this.state = {};
+  }
+
   static async getInitialProps(props) {
     return {
       slug: props.query.slug

@@ -17,10 +17,7 @@ export default class Footer extends Component {
           <ul>
             <li>
               <a href="https://www.instagram.com/kettavs/" target="blank">
-                <FaInstagram
-                  size={25}
-                  color={props => props.theme.colors.dark}
-                />
+                <FaInstagram size={25} />
               </a>
             </li>
             <li>
@@ -28,10 +25,7 @@ export default class Footer extends Component {
                 href="https://www.linkedin.com/in/kethlyn-tavares-saibert/"
                 target="blank"
               >
-                <FaLinkedinIn
-                  size={25}
-                  color={props => props.theme.colors.dark}
-                />
+                <FaLinkedinIn size={25} />
               </a>
             </li>
           </ul>

@@ -12,6 +12,13 @@
 const jdown = require("jdown");
 
 module.exports = {
+  webpack: cfg => {
+    cfg.module.rules.push({
+      test: /\.md$/,
+      use: "frontmatter-markdown-loader"
+    });
+    return cfg;
+  },
   exportPathMap: async function() {
     // pages we know about beforehand
     const paths = {

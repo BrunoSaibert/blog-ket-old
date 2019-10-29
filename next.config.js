@@ -16,5 +16,12 @@ const withMDX = require("@zeit/next-mdx")({
 
 module.exports = withMDX({
   pageExtensions: ["js", "jsx", "mdx"],
-  exportPathMap
+  exportPathMap,
+  webpack: cfg => {
+    cfg.module.rules.push({
+      test: /\.md$/,
+      use: "frontmatter-markdown-loader"
+    });
+    return cfg;
+  }
 });

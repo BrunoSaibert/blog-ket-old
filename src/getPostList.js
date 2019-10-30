@@ -1,14 +1,19 @@
-// src/content.js
-
 const posts = requirePosts();
 
-export function getPosts() {
-  return posts;
+export function getPosts(page, page_size) {
+  return posts.slice((page - 1) * page_size, page * page_size);
+}
+
+export function getTotalPost() {
+  return posts.length;
 }
 
 function requirePosts() {
   function requireAll(r) {
-    return r.keys().map(r);
+    return r
+      .keys()
+      .map(r)
+      .reverse();
   }
   return requireAll(require.context("../content/blog", true, /\.md$/));
 }

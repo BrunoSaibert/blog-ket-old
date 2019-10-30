@@ -10,8 +10,8 @@ collections:
         name: "home"
         file: "content/home.md"
         fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Sub-title", name: "subTitle", widget: "string" }
+          - { label: "Title", name: "title", widget: "text" }
+          - { label: "Sub-title", name: "subTitle", widget: "text" }
           - {
               label: "Background Title",
               name: "urlBackground",
@@ -21,8 +21,8 @@ collections:
         name: "sobre"
         file: "content/sobre.md"
         fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Sub-title", name: "subTitle", widget: "string" }
+          - { label: "Title", name: "title", widget: "text" }
+          - { label: "Sub-title", name: "subTitle", widget: "text" }
           - {
               label: "Background Title",
               name: "urlBackground",
@@ -33,8 +33,8 @@ collections:
         name: "contato"
         file: "content/contato.md"
         fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Sub-title", name: "subTitle", widget: "string" }
+          - { label: "Title", name: "title", widget: "text" }
+          - { label: "Sub-title", name: "subTitle", widget: "text" }
           - {
               label: "Background Title",
               name: "urlBackground",
@@ -47,9 +47,12 @@ collections:
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
-      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Title", name: "title", widget: "text" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Description", name: "description", widget: "string" }
+      - { label: "Background Title", name: "urlBackground", widget: "image" }
+      - { label: "Category", name: "category", widget: "text" }
+      - { label: "Tags", name: "tags", widget: "list" }
       - {
           label: "Slug",
           name: "slug",

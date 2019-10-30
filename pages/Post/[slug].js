@@ -29,11 +29,14 @@ class PostPage extends Component {
               <title key="title">
                 {post.attributes.title} - Kethlyn Saibert
               </title>
+              <meta name="description" content={post.attributes.description} />
+              {/* <meta name="keywords" content={post.attributes.title} /> */}
+              {/* <meta name="revisit-after" content="14 day" /> */}
             </Head>
             <Intro
-              urlBackground="https://picsum.photos/id/409/2000/1000"
               title={post.attributes.title}
               subTitle={post.attributes.description}
+              urlBackground={post.attributes.urlBackground}
             />
             <Container>
               <article

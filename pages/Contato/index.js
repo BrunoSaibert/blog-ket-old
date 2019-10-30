@@ -26,6 +26,21 @@ export default class Contato extends Component {
         />
         <Container>
           <div dangerouslySetInnerHTML={{ __html: html }} />
+
+          <form
+            name="contact"
+            method="post"
+            data-netlify="true"
+            data-netlify-honeypot="bot-field"
+          >
+            <input type="hidden" name="form-name" value="contact" />
+
+            <input type="text" name="name" />
+            <input type="email" name="email" />
+            <textarea name="message"></textarea>
+
+            <button type="submit">Enviar</button>
+          </form>
         </Container>
       </>
     );

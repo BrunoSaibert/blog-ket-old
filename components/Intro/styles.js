@@ -6,7 +6,7 @@ export const Container = styled.div`
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  color: ${props => props.theme.colors.ligth};
+  color: ${props => props.theme.colors.light};
   margin: 0 auto;
   height: 500px;
   display: flex;

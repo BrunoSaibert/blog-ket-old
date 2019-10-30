@@ -5,7 +5,6 @@ export default css.global`
   @import url("https://fonts.googleapis.com/css?family=IBM+Plex+Sans|Open+Sans&display=swap");
 
   body {
-    height: 1000px;
     margin: 0;
     padding: 0;
     font-size: 16px;

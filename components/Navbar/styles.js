@@ -19,7 +19,7 @@ export const Container = styled.div`
   margin: 0 auto;
 
   a {
-    color: ${props => props.theme.colors.ligth};
+    color: ${props => props.theme.colors.light};
     text-decoration: none;
     font-weight: bold;
     text-transform: uppercase;
@@ -30,7 +30,7 @@ export const Container = styled.div`
       font-size: 20px;
 
       &:hover {
-        color: ${props => props.theme.colors.ligth_gray};
+        color: ${props => props.theme.colors.light_gray};
       }
     }
   }

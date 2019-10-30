@@ -13,7 +13,9 @@ function requirePosts() {
     return r
       .keys()
       .map(r)
-      .reverse();
+      .sort(
+        (a, b) => new Date(b.attributes.date) - new Date(a.attributes.date)
+      );
   }
   return requireAll(require.context("../content/blog", true, /\.md$/));
 }

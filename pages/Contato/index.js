@@ -5,6 +5,8 @@ import content from "../../content/contato.md";
 
 import Intro from "../../components/Intro";
 import Container from "../../components/Container";
+import { Form, Label, Input, TextArea } from "../../components/Form/styles";
+import { Button } from "../../components/Button/styles";
 
 export default class Contato extends Component {
   render() {
@@ -25,22 +27,27 @@ export default class Contato extends Component {
           urlBackground={urlBackground}
         />
         <Container>
-          <div dangerouslySetInnerHTML={{ __html: html }} />
+          <article dangerouslySetInnerHTML={{ __html: html }} />
 
-          <form
+          <Form
             name="contact"
             method="post"
             data-netlify="true"
             data-netlify-honeypot="bot-field"
           >
-            <input type="hidden" name="form-name" value="contact" />
+            <Input type="hidden" name="form-name" value="contact" />
 
-            <input type="text" name="name" />
-            <input type="email" name="email" />
-            <textarea name="message"></textarea>
+            <Label htmlFor="name">Nome</Label>
+            <Input type="text" id="name" name="name" />
 
-            <button type="submit">Enviar</button>
-          </form>
+            <Label htmlFor="email">E-mail</Label>
+            <Input type="email" id="email" name="email" />
+
+            <Label htmlFor="message">Mensagem</Label>
+            <TextArea id="message" name="message"></TextArea>
+
+            <Button type="submit">Enviar</Button>
+          </Form>
         </Container>
       </>
     );

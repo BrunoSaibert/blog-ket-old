@@ -25,7 +25,7 @@ export default class Sobre extends Component {
           urlBackground={urlBackground}
         />
         <Container>
-          <div dangerouslySetInnerHTML={{ __html: html }} />
+          <article dangerouslySetInnerHTML={{ __html: html }} />
         </Container>
       </>
     );

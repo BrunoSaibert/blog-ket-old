@@ -12,6 +12,7 @@ export const FooterContainer = styled.footer`
   p {
     text-align: center;
     font-size: 10px;
+    margin-top: 15px;
   }
 
   ul {

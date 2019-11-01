@@ -7,8 +7,9 @@ export const Container = styled.div`
   background-repeat: no-repeat;
   background-size: cover;
   color: ${props => props.theme.colors.light};
-  margin: 0 auto;
-  height: 500px;
+  margin: 60px auto 0;
+  padding: 20px;
+  height: 450px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -25,5 +26,21 @@ export const Container = styled.div`
   span {
     font-size: 25px;
     text-shadow: 0 0px 10px rgba(0, 0, 0, 0.3);
+  }
+
+  @media only screen and (max-width: 992px) {
+    & {
+      height: 300px;
+      text-align: center;
+
+      h1 {
+        font-size: 40px;
+        line-height: 40px;
+      }
+      span {
+        font-size: 20px;
+        line-height: 20px;
+      }
+    }
   }
 `;

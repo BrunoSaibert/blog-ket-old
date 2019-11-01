@@ -12,16 +12,13 @@ export default css.global`
   }
 
   body {
+    overflow-x: hidden;
     margin: 0;
     padding: 0;
     font-size: 16px;
     font-weight: 400;
     color: ${props => props.theme.colors.dark_gray};
     // font-family: "Open Sans", sans-serif;
-    font-family: "IBM Plex Sans", sans-serif;
-  }
-
-  article {
-    margin: 50px 0;
+    font-family: "IBM Plex Sans", "Open Sans", sans-serif;
   }
 `;

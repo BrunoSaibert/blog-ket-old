@@ -14,13 +14,13 @@ export const PostItem = styled.li`
   border-bottom: 1px solid ${props => lighten(0.7, props.theme.colors.dark)};
 
   h2 {
-    font-size: 35px;
+    font-size: 40px;
     line-height: 40px;
     margin: 0;
   }
 
   h3 {
-    font-size: 20px;
+    font-size: 25px;
     line-height: 25px;
     font-weight: normal;
     margin: 10px 0;
@@ -28,6 +28,7 @@ export const PostItem = styled.li`
 
   p {
     font-size: 14px;
+    line-height: 14px;
     margin: 0;
     color: ${props => props.theme.colors.gray};
   }
@@ -40,6 +41,22 @@ export const PostItem = styled.li`
 
     &:hover {
       color: ${props => props.theme.colors.primary};
+    }
+  }
+
+  @media only screen and (max-width: 992px) {
+    & {
+      /* height: 300px;
+      text-align: center; */
+
+      h2 {
+        font-size: 25px;
+        line-height: 25px;
+      }
+      h3 {
+        font-size: 18px;
+        line-height: 18px;
+      }
     }
   }
 `;

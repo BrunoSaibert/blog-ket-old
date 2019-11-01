@@ -3,8 +3,8 @@ import { lighten } from "polished";
 
 export const FooterContainer = styled.footer`
   border-top: 1px solid ${props => lighten(0.7, props.theme.colors.dark)};
-
-  height: 150px;
+  min-height: 150px;
+  padding: 20px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -18,6 +18,8 @@ export const FooterContainer = styled.footer`
   ul {
     display: flex;
     align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
     list-style: none;
     padding: 0;
     li {
@@ -26,7 +28,7 @@ export const FooterContainer = styled.footer`
         display: flex;
         align-items: center;
         padding: 15px;
-        margin: 0 5px;
+        margin: 5px;
         border-radius: 50%;
         transition: all 0.3s;
         background: ${props => lighten(0.75, props.theme.colors.dark)};

@@ -6,8 +6,8 @@ export const Form = styled.form`
   align-items: flex-end;
   flex-direction: column;
   margin: 50px auto;
-  padding: 0;
-  width: 100%;
+  padding: 0 10px;
+  width: 100vw;
   max-width: 450px;
 `;
 

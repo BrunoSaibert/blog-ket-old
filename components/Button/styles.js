@@ -26,4 +26,11 @@ export const Button = styled.button`
     background: ${props => lighten(0.07, props.theme.colors.primary)};
     border: 1px solid ${props => lighten(0.07, props.theme.colors.primary)};
   }
+
+  @media only screen and (max-width: 992px) {
+    & {
+      display: block;
+      width: 100%;
+    }
+  }
 `;

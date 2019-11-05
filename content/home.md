@@ -1,6 +1,6 @@
 ---
-title: Blog da ket
-subTitle: aqui estão meus pensamentos
+title: Kethlyn Saibert
+subTitle: Acadêmica de Jornalismo
 urlBackground: /static/img/banner.jpg
 ---
 

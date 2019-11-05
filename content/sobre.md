@@ -1,7 +1,6 @@
 ---
 title: Sobre mim
-subTitle: conheça um pouco mais do meu mundo
-urlBackground: https://picsum.photos/id/123/2000/1000
+subTitle: 'Acadêmica de Jornalismo '
+urlBackground: 'https://picsum.photos/id/123/2000/1000'
 ---
-
-Oi, eu sou a Ket eu gosto de gatos.
+Sou tecnóloga em Produção Multimídia pela Faculdade Opet e estou cursando Bacharelado em Jornalismo pelo Centro Universitário Uninter.

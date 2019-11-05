@@ -6,7 +6,7 @@ urlBackground: /static/img/572224f6cc9fd-teatro_01.jpg
 category: Trabalhos Acadêmicos
 slug: '{{slug}}'
 ---
-Trabalho realizado para o módulo de Temática de Aprendizagem em Processos Jornalísticos. O objetivo da disciplina é fazer o aluno aprender na prática como funciona a produção de um jornal mural que inclui:
+Trabalho realizado para o módulo de Temática de Aprendizagem em **Processos Jornalísticos**. O objetivo da disciplina é fazer o aluno aprender na prática como funciona a produção de um jornal mural que inclui:
 
 ● Identificar fatos que podem ser noticiados;
 
@@ -23,6 +23,6 @@ Trabalho realizado para o módulo de Temática de Aprendizagem em Processos Jorn
 ● Desenvolver noções de produção gráfica
 ;
 
-A pauta proposta pelo curso foram sobre atividades relacionadas à cultura na cidade do aluno. O tema escolhido foi o sobre o Teatro Lala Schneider que é um teatro de iniciativa privada muito importante para a cidade de Curitiba.
+A pauta proposta pelo curso foram sobre atividades relacionadas à cultura na cidade do aluno. O tema escolhido foi sobre o **Teatro Lala Schneider** que é um teatro de iniciativa privada muito importante para a cidade de Curitiba.
 
 Para acessar o trabalho clique[ aqui.](http://bit.ly/projetocomunicarte)

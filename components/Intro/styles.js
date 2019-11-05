@@ -16,11 +16,12 @@ export const Container = styled.div`
   justify-content: center;
 
   h1 {
-    font-size: 80px;
-    line-height: 80px;
+    font-size: 50px;
+    line-height: 50px;
     font-weight: bold;
     text-shadow: 0 0px 10px rgba(0, 0, 0, 0.3);
     margin: 0 0 30px;
+    text-align: center;
   }
 
   span {

@@ -24,4 +24,4 @@ Trabalho realizado para o módulo de Temática de Aprendizagem em **Processos Jo
 
 A pauta proposta pelo curso foram sobre atividades relacionadas à cultura na cidade do aluno. O tema escolhido foi sobre o **Teatro Lala Schneider** que é um teatro de iniciativa privada muito importante para a cidade de Curitiba.
 
-Para acessar o trabalho [clique aqui](http://bit.ly/projetocomunicarte){:target="_blank"}.
+Para acessar o trabalho [clique aqui](http://bit.ly/projetocomunicarte).

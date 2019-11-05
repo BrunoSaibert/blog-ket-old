@@ -9,6 +9,7 @@ collections:
       - label: "Home"
         name: "home"
         file: "content/home.md"
+        delete: false
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Sub-title", name: "subTitle", widget: "string" }
@@ -20,6 +21,7 @@ collections:
       - label: "Sobre"
         name: "sobre"
         file: "content/sobre.md"
+        delete: false
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Sub-title", name: "subTitle", widget: "string" }
@@ -32,6 +34,7 @@ collections:
       - label: "Contato"
         name: "contato"
         file: "content/contato.md"
+        delete: false
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Sub-title", name: "subTitle", widget: "string" }

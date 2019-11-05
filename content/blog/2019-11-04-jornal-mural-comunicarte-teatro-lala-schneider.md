@@ -4,7 +4,7 @@ date: 2019-11-04T21:39:19.427Z
 description: Trabalhos Acadêmicos
 urlBackground: /static/img/photo-1514306191717-452ec28c7814.jpg
 category: Trabalhos Acadêmicos
-slug: '{{slug}}'
+slug: jornal-mural-comunicarte-teatro-lala-schneider
 ---
 Trabalho realizado para o módulo de Temática de Aprendizagem em **Processos Jornalísticos**. O objetivo da disciplina é fazer o aluno aprender na prática como funciona a produção de um jornal mural que inclui:
 

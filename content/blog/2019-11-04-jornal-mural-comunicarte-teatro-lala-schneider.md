@@ -2,7 +2,7 @@
 title: Jornal Mural Comunicarte - Teatro Lala Schneider
 date: 2019-11-04T21:39:19.427Z
 description: Trabalhos Acadêmicos
-urlBackground: /static/img/1_g7ebwji6y_gssubauavxba.jpeg
+urlBackground: /static/img/572224f6cc9fd-teatro_01.jpg
 category: Trabalhos Acadêmicos
 slug: '{{slug}}'
 ---
@@ -20,8 +20,9 @@ Trabalho realizado para o módulo de Temática de Aprendizagem em Processos Jorn
 
 ● Compreender a função de um layout para impresso jornalístico;
 
-● Desenvolver noções de produção gráfica;
+● Desenvolver noções de produção gráfica
+;
 
-A pauta proposta pelo curso foi sobre atividades relacionadas á cultura na cidade do aluno. O tema escolhido foi o sobre o Teatro Lala Schneider de iniciativa privada que tem grande peso na cidade de Curitiba.
+A pauta proposta pelo curso foram sobre atividades relacionadas à cultura na cidade do aluno. O tema escolhido foi o sobre o Teatro Lala Schneider que é um teatro de iniciativa privada muito importante para a cidade de Curitiba.
 
 Para acessar o trabalho clique[ aqui.](http://bit.ly/projetocomunicarte)

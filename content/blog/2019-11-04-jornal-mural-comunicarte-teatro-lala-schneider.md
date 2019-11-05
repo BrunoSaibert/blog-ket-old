@@ -2,7 +2,7 @@
 title: Jornal Mural Comunicarte - Teatro Lala Schneider
 date: 2019-11-04T21:39:19.427Z
 description: Trabalhos Acadêmicos
-urlBackground: /static/img/572224f6cc9fd-teatro_01.jpg
+urlBackground: /static/img/photo-1514306191717-452ec28c7814.jpg
 category: Trabalhos Acadêmicos
 slug: '{{slug}}'
 ---

@@ -61,5 +61,5 @@ collections:
           widget: "list",
           field: { label: Tag, name: tag, widget: text },
         }
-      - { label: "Slug", name: "slug", widget: "hidden", default: "{{slug}}" }
+      - { label: "Slug", name: "slug", widget: "hidden", default: {{slug}} }
       - { label: "Body", name: "body", widget: "markdown" }

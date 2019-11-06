@@ -1,12 +1,16 @@
 import React from "react";
 
+import Intro from "../components/Intro";
+
 function Error({ statusCode }) {
   return (
-    <p>
-      {statusCode
-        ? `An error ${statusCode} occurred on server`
-        : "An error occurred on client"}
-    </p>
+    <Intro
+      title={
+        statusCode
+          ? `O erro ${statusCode} ocorreu no servidor`
+          : "O erro ocorreu no cliente"
+      }
+    />
   );
 }
 

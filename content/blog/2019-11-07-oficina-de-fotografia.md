@@ -14,6 +14,8 @@ A professora Marcia Boroski orientou que teríamos que registrar qualquer coisa 
 
 Escolhi registrar a resistência dos livros da biblioteca da faculdade e também tirei foto de voluntários e orientei nas poses que presentassem o tema.
 
+## Fotos:
+
 ![Resistência dos Livros](/static/img/dsc_0025.jpg "Foto: Kethlyn Saibert")
 
 ![Livros e Kindle](/static/img/dsc_0016.jpg "Foto: Kethlyn Saibert")

@@ -1,7 +1,7 @@
 ---
 title: Sobre mim
 subTitle: Acadêmica de Jornalismo
-urlBackground: /static/img/photo-1488190211105-8b0e65b80b4e.jpg
+urlBackground: /static/img/photo-1544030622-5c2c58b1c463.jpg
 ---
 Sou graduada em **Produção Multimídia** pela Faculdade Opet (2015 a 2016) e atualmente estou cursando **Bacharelado em Jornalismo** pelo Centro Universitário Uninter (iniciei em 2019). 
 

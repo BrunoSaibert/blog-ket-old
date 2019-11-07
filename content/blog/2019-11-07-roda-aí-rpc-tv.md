@@ -6,10 +6,11 @@ urlBackground: /static/img/69486968_2266905396770597_6182869051979595776_n.jpg
 category: Trabalhos acadêmicos; Interdisciplinar; Extensão em Comunicação;
 slug: Jornalismo
 ---
-O **Roda Aí** é um projeto de **extensão em comunicação** da afiliada paranaense da **TV Globo**, a **RPC TV** e **Instituto GRPCOM**.  É um grande laboratório com o objetivo de apresentar aos estudantes o **novo momento do mercado da comunicação**, focando em oferecer **experiências multidisciplinares**. Os alunos participam de palestras e workshops e receberem o desafio de desenvolver um projeto relacionado a temas definidos pela própria RPC.
+# Projeto Roda Aí
 
-Participei da edição de 2019 que ocorreu entre os dias 24 de setembro a 2 de outubro. Os estudantes foram escolhidos através de processo seletivo que teve mais de 150 candidatos em que apenas 34 foram selecionados. Meu grupo ficou com o tema **Comunicação e Pesquisa** com objetivo de traçar o perfil do **jovem entre 18 a 24 anos**, ****entrevistamos 162 pessoas para entender o que o **jovem quer ver na televisão**, a fim de **trazer mais desse público** para a RPC.
+O **Roda Aí** é um projeto de **extensão em comunicação** da afiliada paranaense da **TV Globo**, a **RPC TV** e **Instituto GRPCOM**.  É um grande laboratório com o objetivo de apresentar aos estudantes o **novo momento do mercado da comunicação**, focando em oferecer **experiências multidisciplinares**. Os alunos participam de palestras e workshops e recebem o desafio de desenvolver um projeto relacionado a temas definidos pela própria RPC.
 
-O gráfico da pesquisa você confere [aqui](https://infogram.com/o-comportamento-do-jovem-com-a-televisao-1h7j4dgogogv4nr?live).
+Participei da edição de 2019 que ocorreu entre os dias 24 de setembro a 2 de outubro, os estudantes foram escolhidos através de processo seletivo que teve mais de 150 candidatos em que apenas 34 ****foram selecionados. Meu grupo ficou com o tema **Comunicação e Pesquisa** com objetivo de traçar o perfil do **jovem entre 18 a 24 anos**, entrevistamos 162 pessoas para entender o que o jovem quer ver na televisão**, a fim de** trazer mais desse público para a RPC.
 
-E o vídeo com a nossa apresentação você confere [aqui.](https://drive.google.com/file/d/1TMTTyHiDYZhIMR3L1lD4yC9bWAStb0WH/view?usp=sharing)
+* O gráfico da pesquisa você confere [aqui](https://infogram.com/o-comportamento-do-jovem-com-a-televisao-1h7j4dgogogv4nr?live).
+* E o vídeo com a nossa apresentação você confere [aqui.](https://drive.google.com/file/d/1TMTTyHiDYZhIMR3L1lD4yC9bWAStb0WH/view?usp=sharing)

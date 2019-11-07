@@ -1,7 +1,7 @@
 ---
 title: Matéria sobre o Outubro Rosa - Pop FM Curitiba
 date: 2019-11-07T18:07:17.437Z
-description: Matéria Informativa
+description: Trabalho Voluntário
 urlBackground: /static/img/download.jpg
 category: Trabalho Voluntário para a Rádio Pop FM
 slug: trabalhovoluntario

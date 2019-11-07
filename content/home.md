@@ -1,6 +1,6 @@
 ---
 title: Kethlyn Saibert
 subTitle: Acadêmica de Jornalismo
-urlBackground: /static/img/awhcbhlqrcecdjcpqunn_img_0249.jpg
+urlBackground: /static/img/1_g7ebwji6y_gssubauavxba.jpeg
 ---
 

@@ -4,7 +4,7 @@ date: 2019-11-07T18:52:37.220Z
 description: Projeto de Extensão
 urlBackground: /static/img/photo-1502982720700-bfff97f2ecac.jpg
 category: Oficina de Fotografia
-slug: Oficina-de-fotografia
+slug: oficina-de-fotografia
 ---
 # Oficina de Fotografia - Tema Resistência
 
@@ -14,14 +14,14 @@ A professora Marcia Boroski orientou que teríamos que registrar qualquer coisa 
 
 Escolhi registrar a resistência dos livros da biblioteca da faculdade e também tirei foto de voluntários e orientei nas poses que presentassem o tema.
 
-![Imagem de minha autoria.](/static/img/dsc_0025.jpg "Resistência dos livros ao tema")
+![Resistência dos Livros](/static/img/dsc_0025.jpg "Foto: Kethlyn Saibert")
 
-![Livros e Kindle](/static/img/dsc_0016.jpg "Minha Autoria")
+![Livros e Kindle](/static/img/dsc_0016.jpg "Foto: Kethlyn Saibert")
 
-![Foto](/static/img/dsc_0020.jpg "Minha Autoria")
+![Foto livros e Kindle](/static/img/dsc_0020.jpg "Foto: Kethlyn Saibert")
 
-![Livro e Kindle](/static/img/dsc_0024.jpg "Minha autoria")
+![Livro e Kindle](/static/img/dsc_0024.jpg "Foto: Kethlyn Saibert")
 
-![União - Resistência](/static/img/dsc_0023.jpg "Minha Autoria")
+![União - Resistência](/static/img/dsc_0023.jpg "Foto: Kethlyn Saibert")
 
-![Ato de Resistência](/static/img/dsc_0010.jpg "Minha Autoria")
+![Ato de Resistência](/static/img/dsc_0010.jpg "Foto: Kethlyn Saibert")

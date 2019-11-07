@@ -21,13 +21,9 @@ A **primeira fase** do trabalho foi entregar **3 fichamentos** de texto com base
 ## Fichamentos que realizei:
 
 1. Massa, Público e Opinião Pública - BLUMER, Herbert
-
 2. Teorias das Comunicações de Massa - WOLF, Mauro
-
 3. Jornalismo Digital, Cap. 3 p. 51-56 - FERRARI, Pollyana
 
-Para acessar a pasta com os arquivos em PDF [clique aqui.](https://drive.google.com/drive/folders/1rsB334yZPXFrM4V3_frkDxt_-HpmzldL)
+**Para acessar** a pasta com os arquivos em **PDF** [clique aqui.](https://drive.google.com/drive/folders/1rsB334yZPXFrM4V3_frkDxt_-HpmzldL)
 
 O trabalho foi orientado pelas professoras Mônica Fort e Máira de Souza Nunes.
-
-#

@@ -12,7 +12,7 @@ Em agosto participei da oficina de fotografia da faculdade **Uninter**. O tema p
 
 A professora Marcia Boroski orientou que teríamos que registrar qualquer coisa que fosse relacionada à resistência, seja a resistência ao tempo como um livro velho ou resistência da natureza ao mundo industrial, por exemplo, ou ainda a resistência física com uma foto que represente a força do corpo humano ou um ato de ativismo de um grupo.
 
-Escolhi registrar a resistência dos livros da biblioteca da faculdade e também tirei foto de voluntários e orientei nas poses que presentassem o tema.
+Escolhi registrar a resistência dos livros da biblioteca da faculdade, também tirei foto de voluntários e orientei nas poses que representassem o tema.
 
 ## Fotos:
 

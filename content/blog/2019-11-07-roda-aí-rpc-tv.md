@@ -4,7 +4,7 @@ date: 2019-11-07T15:16:23.475Z
 description: Projeto de Extensão
 urlBackground: /static/img/69486968_2266905396770597_6182869051979595776_n.jpg
 category: Trabalhos acadêmicos; Interdisciplinar; Extensão em Comunicação;
-slug: Jornalismo
+slug: projetorodaai
 ---
 # Projeto Roda Aí
 

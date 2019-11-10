@@ -12,5 +12,5 @@ O [**Roda Aí**](https://rodaai.com.br/) é um projeto de **extensão em comunic
 
 Participei da edição de 2019 que ocorreu entre os dias 24 de setembro a 2 de outubro, os estudantes foram escolhidos através de processo seletivo que teve mais de 150 candidatos em que apenas 34 foram selecionados. Meu grupo ficou com o tema **Comunicação e Pesquisa** com objetivo de traçar o perfil do **jovem entre 18 a 24 anos**, entrevistamos 162 pessoas para entender o que o jovem quer ver na televisão, a fim de **trazer mais desse público para a RPC**.
 
-* O gráfico da pesquisa você confere [aqui](https://infogram.com/o-comportamento-do-jovem-com-a-televisao-1h7j4dgogogv4nr?live).
+* O gráfico da pesquisa você confere [aqui.](http://bit.ly/infogrampesquisa)
 * E o vídeo com a nossa apresentação você confere [aqui.](https://drive.google.com/file/d/1TMTTyHiDYZhIMR3L1lD4yC9bWAStb0WH/view?usp=sharing)

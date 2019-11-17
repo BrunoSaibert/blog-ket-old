@@ -1,18 +1,33 @@
+import React, { Component } from "react";
+import { initGA, logPageView } from "../utils/analytics";
+
 import globalStyles from "../public/styles/global.js";
 
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 
-export default ({ children }) => (
-  <>
-    <Navbar />
+export default class Layout extends Component {
+  componentDidMount() {
+    if (!window.GA_INITIALIZED) {
+      initGA();
+      window.GA_INITIALIZED = true;
+    }
+    logPageView();
+  }
 
-    {children}
+  render() {
+    return (
+      <>
+        <Navbar />
 
-    <Footer />
+        {this.props.children}
 
-    <style jsx global>
-      {globalStyles}
-    </style>
-  </>
-);
+        <Footer />
+
+        <style jsx global>
+          {globalStyles}
+        </style>
+      </>
+    );
+  }
+}

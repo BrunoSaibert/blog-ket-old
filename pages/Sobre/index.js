@@ -10,7 +10,7 @@ export default class Sobre extends Component {
   render() {
     const {
       html,
-      attributes: { title, subTitle, urlBackground }
+      attributes: { title, subTitle, urlBackground, avatar }
     } = content;
 
     return (
@@ -25,6 +25,7 @@ export default class Sobre extends Component {
           urlBackground={urlBackground}
         />
         <Container>
+          <img src={avatar} alt="Kethlyn Saibert" className="avatar" />
           <article dangerouslySetInnerHTML={{ __html: html }} />
         </Container>
       </>

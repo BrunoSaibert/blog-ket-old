@@ -21,4 +21,14 @@ export default css.global`
     // font-family: "Open Sans", sans-serif;
     font-family: "IBM Plex Sans", "Open Sans", sans-serif;
   }
+
+  .avatar {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    max-width: 120px;
+    border-radius: 50%;
+    border: 5px solid #fff;
+    margin-top: -60px;
+  }
 `;

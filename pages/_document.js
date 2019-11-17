@@ -1,5 +1,6 @@
 import Document, { Html, Head, Main, NextScript } from "next/document";
 import { ServerStyleSheet } from "styled-components";
+import { initGA, logPageView } from "../utils/analytics";
 
 export default class MyDocument extends Document {
   static async getInitialProps(ctx) {
@@ -25,6 +26,14 @@ export default class MyDocument extends Document {
     } finally {
       sheet.seal();
     }
+  }
+
+  componentDidMount() {
+    if (!window.GA_INITIALIZED) {
+      initGA();
+      window.GA_INITIALIZED = true;
+    }
+    logPageView();
   }
 
   render() {

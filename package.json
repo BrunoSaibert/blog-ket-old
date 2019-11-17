@@ -16,6 +16,7 @@
     "polished": "^3.4.1",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
+    "react-ga": "^2.7.0",
     "react-icons": "^3.8.0",
     "styled-components": "^4.4.0"
   },

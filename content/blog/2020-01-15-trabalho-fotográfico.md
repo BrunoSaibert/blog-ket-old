@@ -10,7 +10,7 @@ slug: trabalho-fotografico
 
 Fotos de minha autoria apenas para compor meu portfólio. Trabalho feito com uma câmera da Canon Power Shot modelo 2014. 
 
-* > ###### Editado com Photoshop e Lightroom
+* **Editado com Photoshop e Lightroom**
 * **Modelo:** @anamariagw
 
 ![Foto: Kethlyn Saibert](/static/img/IMG_0191.jpg)
@@ -26,3 +26,5 @@ Fotos de minha autoria apenas para compor meu portfólio. Trabalho feito com uma
 ![Foto: Kethlyn Saibert](/static/img/IMG_0246.jpg)
 
 ![Foto: Kethlyn Saibert](/static/img/IMG_0246-2.jpg)
+
+![Foto: Kethlyn Saibert](/static/img/IMG_0227.jpg)
